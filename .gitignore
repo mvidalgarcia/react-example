@@ -1,0 +1,5 @@
+# Dependency directory
+node_modules
+
+# Bundle build
+build/js
