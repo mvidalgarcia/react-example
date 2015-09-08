@@ -1,5 +1,7 @@
 # react-example
 
+Getting started example of React using EcmaScript 6.
+
 ## Install
 ```
 $ npm install --save react
